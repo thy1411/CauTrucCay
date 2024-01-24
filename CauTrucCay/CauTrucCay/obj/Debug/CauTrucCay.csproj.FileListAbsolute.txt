@@ -1,0 +1,7 @@
+D:\CauTrucCay\CauTrucCay\bin\Debug\CauTrucCay.exe.config
+D:\CauTrucCay\CauTrucCay\bin\Debug\CauTrucCay.exe
+D:\CauTrucCay\CauTrucCay\bin\Debug\CauTrucCay.pdb
+D:\CauTrucCay\CauTrucCay\obj\Debug\CauTrucCay.csproj.AssemblyReference.cache
+D:\CauTrucCay\CauTrucCay\obj\Debug\CauTrucCay.csproj.CoreCompileInputs.cache
+D:\CauTrucCay\CauTrucCay\obj\Debug\CauTrucCay.exe
+D:\CauTrucCay\CauTrucCay\obj\Debug\CauTrucCay.pdb
